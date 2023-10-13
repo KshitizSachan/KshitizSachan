@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bigstockphoto.com/image-407093693/stock-vector-web-design-development-minimal-infographic-web-banner-vector-creative-web-design-studio-tool-and-se)](https://kshitiz-cv.netlify.app/)
+[![MasterHead](https://static1.bigstockphoto.com/7/0/4/large1500/407093693.jpg)](https://kshitiz-cv.netlify.app/)
 <h1 align="center">Hi 
 <h3 align="center">A Fullstack developer from India</h3>
 <img align=”right” alt=”Coding” width=”400” src=”https://tenor.com/view/programmer-gif-19019116”>
