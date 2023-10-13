@@ -1,4 +1,4 @@
-[![MasterHead](https://static1.bigstockphoto.com/7/0/4/large1500/407093693.jpg)](https://kshitiz-cv.netlify.app/)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 
 <h3 align="center">A Fullstack developer from India</h3>
 <img align=”right” alt=”Coding” width=”400” src=”https://tenor.com/view/programmer-gif-19019116”>
